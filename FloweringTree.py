@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 10 14:18:10 2018
 
-@author: lixin (Justin Lee)
+
+
 """
 import random
 from math import sqrt
