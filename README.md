@@ -6,8 +6,6 @@ Plain, old and simple Flowering Tree Class
 
 - Python 3
 
-# Screenshot
-
 ![](./img/FloweringTree.png)
 
 # Made with ❤ 
